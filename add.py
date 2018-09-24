@@ -5,3 +5,12 @@ a=10
 b=6
 c=a+b
 print(c)
+
+output
+cl315@soetcse:~/abhishek$ subl
+cl315@soetcse:~/abhishek$ python3 add.py
+16
+cl315@soetcse:~/abhishek$ 
+
+
+
