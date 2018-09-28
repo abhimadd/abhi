@@ -1,3 +1,5 @@
+PROGRAM 10 
+
 import random
 count=0
 while(count<=100):
@@ -45,7 +47,7 @@ while(count<=100):
 		break
 		
 		
-		output
+		OUTPUT
 		
 		enter r to roll a dicer
 my posistion 1
